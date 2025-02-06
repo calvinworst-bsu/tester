@@ -1,5 +1,5 @@
 # Reflection
 this is where the reflection would go
 
-# Did you chang anything
+# Did you change anything
 added a comment mentioning that the return statement isn't needed
